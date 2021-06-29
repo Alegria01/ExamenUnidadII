@@ -1,0 +1,32 @@
+.body{
+    margin: 20px;
+    margin-top: 50px;
+}
+
+#header h1{
+text-align: center;
+color: #66A49F;
+font-size: 35px;
+border-bottom: 1px solid #278A7B;
+}
+
+/*<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">*/
+
+.text-danger{
+    color: red;
+}
+.text-success{
+color: green;
+}
+.text-warning{
+    color: greenyellow;
+}
+.text-info{
+    color: #1FBDDB;
+}
+
+.selectImage :hover{
+    color: brown;
+    background-color: white;
+    border-color: brown;
+}
